@@ -1,0 +1,38 @@
+/* подвал */
+
+footer{
+    color: #fff;
+    background-color:#191B28;
+    margin: 0;
+    text-align: center;
+    box-shadow: inset 0px 5px 50px #000000
+}
+.whit {
+    color: white;
+    font-size: 25px;
+}
+.mm {
+    margin: 10px 0px;
+}
+.cont {
+    display:flex ;
+    justify-content: center;
+    gap: 50px;
+}
+.conte {
+    display: flex;
+    justify-content: space-around;
+    gap: 140px;
+}
+.ikon {
+   text-decoration: none;
+   overflow: hidden;
+
+}
+.mini {
+    width: 70px;
+    transition: 0.8s;
+}
+.mini:hover {
+    transform: scale(1.2);
+}
