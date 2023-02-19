@@ -1,7 +1,7 @@
 let cards = [
     {
         name: "ЗАКУСКИ",
-        src: "url(../assets/2.jpg)",
+        src: "url(../assets/c_5.jpg)",
         dish:[
             {
                 name_d:"ГОВЯЖИЙ СТУДЕНЬ",
